@@ -48,6 +48,9 @@ Here's a walkthrough of implemented user stories:
 
 ![Kapture 2022-06-21 at 12 15 15](https://user-images.githubusercontent.com/78884307/174880609-1496607b-1c51-403d-8086-8b73637ecd17.gif)
 
+![Kapture 2022-06-21 at 12 57 09](https://user-images.githubusercontent.com/78884307/174910923-60f5d07c-159c-4d57-83f6-fc278b866be3.gif)
+
+
 
 GIF created with [Kap](https://getkap.co/).
 
