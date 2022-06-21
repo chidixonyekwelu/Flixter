@@ -46,6 +46,9 @@ Here's a walkthrough of implemented user stories:
 ![Flixter App](https://user-images.githubusercontent.com/78884307/174416466-5dd94cf3-97af-428a-8b79-ae4f67c230ed.gif)
 
 
+![Kapture 2022-06-21 at 12 15 15](https://user-images.githubusercontent.com/78884307/174880609-1496607b-1c51-403d-8086-8b73637ecd17.gif)
+
+
 GIF created with [Kap](https://getkap.co/).
 
 ## Notes
