@@ -22,6 +22,8 @@
 		EE9BBF2C285A9F83006CF45B /* MovieViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EE9BBF2B285A9F83006CF45B /* MovieViewController.m */; };
 		EE9BBF2F285BE9E9006CF45B /* MovieCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EE9BBF2E285BE9E9006CF45B /* MovieCell.m */; };
 		EE9BBF32285D32D7006CF45B /* DetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EE9BBF31285D32D7006CF45B /* DetailsViewController.m */; };
+		EE9BBF3E286252C5006CF45B /* GridViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EE9BBF3D286252C5006CF45B /* GridViewController.m */; };
+		EE9BBF4128625386006CF45B /* GridCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EE9BBF4028625386006CF45B /* GridCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,6 +74,10 @@
 		EE9BBF2E285BE9E9006CF45B /* MovieCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MovieCell.m; sourceTree = "<group>"; };
 		EE9BBF30285D32D7006CF45B /* DetailsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailsViewController.h; sourceTree = "<group>"; };
 		EE9BBF31285D32D7006CF45B /* DetailsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetailsViewController.m; sourceTree = "<group>"; };
+		EE9BBF3C286252C5006CF45B /* GridViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GridViewController.h; sourceTree = "<group>"; };
+		EE9BBF3D286252C5006CF45B /* GridViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GridViewController.m; sourceTree = "<group>"; };
+		EE9BBF3F28625386006CF45B /* GridCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GridCell.h; sourceTree = "<group>"; };
+		EE9BBF4028625386006CF45B /* GridCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GridCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +163,10 @@
 				EE9BBEF8285A4772006CF45B /* SceneDelegate.h */,
 				EE9BBEF9285A4772006CF45B /* SceneDelegate.m */,
 				EE9BBEFE285A4772006CF45B /* Main.storyboard */,
+				EE9BBF3F28625386006CF45B /* GridCell.h */,
+				EE9BBF4028625386006CF45B /* GridCell.m */,
+				EE9BBF3C286252C5006CF45B /* GridViewController.h */,
+				EE9BBF3D286252C5006CF45B /* GridViewController.m */,
 				EE9BBF01285A4774006CF45B /* Assets.xcassets */,
 				EE9BBF03285A4774006CF45B /* LaunchScreen.storyboard */,
 				EE9BBF2A285A9F83006CF45B /* MovieViewController.h */,
@@ -427,6 +437,8 @@
 				EE9BBEF7285A4772006CF45B /* AppDelegate.m in Sources */,
 				EE9BBF2F285BE9E9006CF45B /* MovieCell.m in Sources */,
 				EE9BBF08285A4774006CF45B /* main.m in Sources */,
+				EE9BBF4128625386006CF45B /* GridCell.m in Sources */,
+				EE9BBF3E286252C5006CF45B /* GridViewController.m in Sources */,
 				EE9BBF32285D32D7006CF45B /* DetailsViewController.m in Sources */,
 				EE9BBEFA285A4772006CF45B /* SceneDelegate.m in Sources */,
 				EE9BBF2C285A9F83006CF45B /* MovieViewController.m in Sources */,
